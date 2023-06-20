@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trendyray
-- 👀 I’m interested in anythong coding and data science
+- 👀 I’m interested in anything coding and data science
 - 🌱 I’m currently learning python
 
 
