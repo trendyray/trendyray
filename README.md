@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @trendyray
 - 👀 I’m interested in anything coding and data science
-- 🌱 I’m currently learning Python
-- ✨ I see my self as a future Data engineer 
+- 🌱 I know Python, SQL, and Big Data 
+- 🌱 I’m currently learning Data Engineering skills 
+- ✨ I see myself as a future Data engineer 
 
 
 <!---
